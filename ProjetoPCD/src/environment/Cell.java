@@ -16,7 +16,6 @@ public class Cell {
 
 	public Coordinate getPosition() {
 		return position;
-	
 	}
 
 	public boolean isOcupied() {
